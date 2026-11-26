@@ -70,3 +70,25 @@ nav a:hover {
 main {
     padding: 40px;
 }
+
+
+.map-section {
+    width: 90%;
+    max-width: 1000px;
+    margin: 40px auto;
+    text-align: center;
+}
+
+.map-section h2 {
+    margin-bottom: 20px;
+}
+
+.map-section iframe {
+    width: 100%;
+    height: 450px;
+    border: none;
+    border-radius: 12px;
+    display: block;
+}
+
+
